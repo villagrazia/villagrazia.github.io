@@ -1,0 +1,28 @@
+{
+  "name": "cultivar template",
+  "version": "0.0.0",
+  "homepage": "https://github.com/cultivar/cultivar.github.io",
+  "authors": [
+    "Antonio Pierro <antonio.pierro@gmail.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.3.1",
+    "angularjs": "~1.3.6",
+    "requirejs": "~2.1.15",
+    "text": "~2.0.12",
+    "ui-router": "~0.2.13",
+    "angular-ui-router-styles": "~0.0.4"
+  }
+}
