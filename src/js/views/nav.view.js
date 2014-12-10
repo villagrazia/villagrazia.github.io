@@ -13,7 +13,7 @@
             data: {
                 css: [
                     vendorDir + 'bootstrap/dist/css/bootstrap.min.css',
-                    'css/business-casual.css'
+                    'src/css/business-casual.css'
                 ]
             },
             template: indexTemplate
